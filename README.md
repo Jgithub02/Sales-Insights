@@ -18,3 +18,6 @@ Step 2 : Analyzing data by MySQL .
 ![sqlsum](https://github.com/Jgithub02/Sales-Insights/assets/164842901/ba4cc891-10e0-42e6-9087-33658c1ad323)
 
 Step 3 : Open data model in power bi , Which shows relationship between different tables .
+![powerbisalestablerelation](https://github.com/Jgithub02/Sales-Insights/assets/164842901/cb9fcb02-41b1-4f93-8b69-c4c25a5eb275)
+
+Step 4 : Prepare a Power Bi deshboard .
