@@ -22,3 +22,4 @@ Step 3 : Open data model in power bi , Which shows relationship between differen
 
 Step 4 : Prepare a Power Bi dashboard .
 # Snapshot of Dashboard
+![Untitled design (4)](https://github.com/Jgithub02/Sales-Insights/assets/164842901/a0801a1a-b5bc-4f15-9145-d03ac56b8fa8)
