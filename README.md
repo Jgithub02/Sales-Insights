@@ -20,4 +20,5 @@ Step 2 : Analyzing data by MySQL .
 Step 3 : Open data model in power bi , Which shows relationship between different tables .
 ![powerbisalestablerelation](https://github.com/Jgithub02/Sales-Insights/assets/164842901/cb9fcb02-41b1-4f93-8b69-c4c25a5eb275)
 
-Step 4 : Prepare a Power Bi deshboard .
+Step 4 : Prepare a Power Bi dashboard .
+# Snapshot of Dashboard
