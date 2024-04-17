@@ -1,5 +1,4 @@
 # Sales-Insights Dashboard 
-# Sales-Insights
 ![powerbisales](https://github.com/Jgithub02/Sales-Insights/assets/164842901/506e4986-ed90-4c32-bad1-586a0dec6403)
 # AtliQ Hardware
 Atliq hardware  Is a company which supplies computer hardware and peripherals to many clients across India. 
